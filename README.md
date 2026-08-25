@@ -10,7 +10,7 @@ Ventoy/
 │   ├── Arch-based/
 │   │   ├── Antix
 │   │   ├── ArchLinux
-│   │  ├── Cashyos
+│   │   ├── Cashyos
 │   │   └── Garuda
 │   │  
 │   ├── Debian-based/
@@ -25,16 +25,16 @@ Ventoy/
 │       ├── Bazite
 │       └── Fedora
 │
+├── Windows/
+│       ├── Win10
+│       ├── Win11
+│       └── Win-server
+│
 ├── Other
 │
 ├── Rec
 │
-├── Rec
-│
-└── Windows/
-     ├── Win10
-     ├── Win11
-     └── Win-server
+└── Tools
 ~~~
 
 ## **Links to the portable tools**
