@@ -1,8 +1,8 @@
-### **What is this repo?**
+## **What is this repo?**
 
 This repo is links to my ventoy usb drive iso images and portable tools.
 
-### **USB drive file structure**
+## **USB drive file structure**
 
 ~~~
 Ventoy/
@@ -10,7 +10,7 @@ Ventoy/
 │   ├── Arch-based/
 │   │   ├── Antix
 │   │   ├── ArchLinux
-│    │  ├── Cashyos
+│   │  ├── Cashyos
 │   │   └── Garuda
 │   │  
 │   ├── Debian-based/
@@ -29,6 +29,8 @@ Ventoy/
 │
 ├── Rec
 │
+├── Rec
+│
 └── Windows/
      ├── Win10
      ├── Win11
@@ -37,4 +39,32 @@ Ventoy/
 
 ## **Links to the portable tools**
 
-[geekuninstaller](https://geekuninstaller.com/download)
+[geek](https://geekuninstaller.com/download)
+
+[7-ZipPortable](https://github.com/daemondevin/7-ZipPortable)
+
+[Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+
+[BCUninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)
+
+[cpu-z](https://www.cpuid.com/softwares/cpu-z.html)
+
+[CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+
+[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)
+
+[Hard Disk Sentinel](https://www.hdsentinel.com/download.php)
+
+[HWiNFO64](https://www.hwinfo.com/download/)
+
+[prime95](https://prime95.net/download/)
+
+[SysinternalsSuite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+
+[TreeSize](https://www.jam-software.com/treesize_free/portable.shtml)
+
+[wiztree](https://diskanalyzer.com/download)
+
+[GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/)
+
+[rufus](https://rufus.ie/en/)
